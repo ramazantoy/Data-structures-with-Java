@@ -1,4 +1,4 @@
-# Stack-Y-t-
+# Yığıt
 Bir grafiksel arayüz ile Word programındaki undo ve redo işlemlerinin gerçekleştirildiği bir kelime işlem programı yapmanız istenmektedir. 
 Bu amaçla  string bilgileri tutan bir yığıt yapısı ekleme(), silme(), bosmu(), tepe(), vb. metotları ile) oluşturulmalıdır.
 Text alanına girilen kelimeler word’te olduğu gibi ileri ve geri alınabilmelidir.
