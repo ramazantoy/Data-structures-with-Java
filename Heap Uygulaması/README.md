@@ -1,4 +1,5 @@
-Soru-1: a) Tam sayıları tutan bir min Heap yapısı tanımlayarak ekleme, silme işlemlerini gerçekleştiren kodu yazınız?
+Soru-1:
+a) Tam sayıları tutan bir min Heap yapısı tanımlayarak ekleme, silme işlemlerini gerçekleştiren kodu yazınız?
 b) Bu min Heap yapısını kullanarak farklı uzunlukta M tane sıralı listeyi sıralı olarak O(nlgn) karmaşıklığında birleştiren programı yazınız?
 c)Oluşturduğunuz min-heap’i O(n) zamanda max-heap’e dönüştüren metodu yazınız?
 c) parametre olarak bir dizi alan ve dizinin min-heap olup olmadığını true veya false olarak döndüren metodu yazınız?
